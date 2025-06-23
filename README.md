@@ -1,6 +1,6 @@
 <h2 align="left">Sejam Bem vindos ao meu Github</h2>
 
-<p>Me chamo Matheus Henrique Santoos, tenho 17 anos. Estou concluindo o ensino medio em instituição privada. Estudo atraves da Alura e sou uma apaixonado por tecnologia.</p>
+<p>Me chamo Matheus Henrique Santos, tenho 17 anos e sou natural do Rio Grande do Norte. Estou concluindo o ensino medio em instituição privada. Estudo através da Alura e sou uma apaixonado por tecnologia.</p>
 
 ###
 
